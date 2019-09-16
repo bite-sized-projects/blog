@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/thirty-days-of-hydroponics/</loc>
+    <lastmod>2019-09-14T18:17:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2019-09-14T18:17:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-09-14T18:17:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
