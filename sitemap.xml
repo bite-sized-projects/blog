@@ -3,15 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/thirty-days-of-hydroponics/</loc>
-    <lastmod>2019-09-14T18:17:27-07:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2019-09-16T13:36:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/hydroponics/day1-getting-started/</loc>
+    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-14T18:17:27-07:00</lastmod>
+    <lastmod>2019-09-16T13:36:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -23,8 +30,29 @@
   </url>
   
   <url>
+    <loc>/categories/development/</loc>
+    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/hydroponics/</loc>
+    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2019-09-14T18:17:27-07:00</lastmod>
+    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/python/</loc>
+    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
