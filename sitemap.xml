@@ -3,57 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://bitesizedprojects.com/</loc>
+    <lastmod>2019-09-17T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bitesizedprojects.com/categories/</loc>
+    <lastmod>2019-09-17T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bitesizedprojects.com/categories/development/</loc>
+    <lastmod>2019-09-17T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bitesizedprojects.com/categories/hydroponics/</loc>
+    <lastmod>2019-09-17T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bitesizedprojects.com/posts/projects/hydroponics/day1-getting-started/</loc>
+    <lastmod>2019-09-17T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bitesizedprojects.com/posts/</loc>
+    <lastmod>2019-09-17T12:21:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bitesizedprojects.com/about/</loc>
     <lastmod>2019-09-16T13:36:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/hydroponics/day1-getting-started/</loc>
-    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
+    <loc>https://bitesizedprojects.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-09-16T13:36:27-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/development/</loc>
-    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/hydroponics/</loc>
-    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-09-16T12:21:27-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
   </url>
   
 </urlset>

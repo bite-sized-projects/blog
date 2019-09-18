@@ -2,29 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bite-Sized Projects</title>
-    <link>/categories/</link>
+    <link>https://bitesizedprojects.com/categories/</link>
     <description>Recent content in Categories on Bite-Sized Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2019 12:21:27 -0700</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitesizedprojects.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Mon, 16 Sep 2019 12:21:27 -0700</pubDate>
+      <link>https://bitesizedprojects.com/categories/development/</link>
+      <pubDate>Tue, 17 Sep 2019 12:21:27 -0700</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>https://bitesizedprojects.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydroponics</title>
-      <link>/categories/hydroponics/</link>
-      <pubDate>Mon, 16 Sep 2019 12:21:27 -0700</pubDate>
+      <link>https://bitesizedprojects.com/categories/hydroponics/</link>
+      <pubDate>Tue, 17 Sep 2019 12:21:27 -0700</pubDate>
       
-      <guid>/categories/hydroponics/</guid>
+      <guid>https://bitesizedprojects.com/categories/hydroponics/</guid>
       <description></description>
     </item>
     
