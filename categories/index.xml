@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Bite-Sized Projects</title>
-    <link>https://bitesizedprojects.com/categories/</link>
-    <description>Recent content in Categories on Bite-Sized Projects</description>
+    <title>Categories on bitesizedprojects</title>
+    <link>https://www.bitesizedprojects.com/categories/</link>
+    <description>Recent content in Categories on bitesizedprojects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 12:21:27 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 12:21:27 -0700</lastBuildDate>
     
-	<atom:link href="https://bitesizedprojects.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bitesizedprojects.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://bitesizedprojects.com/categories/development/</link>
-      <pubDate>Tue, 17 Sep 2019 12:21:27 -0700</pubDate>
+      <link>https://www.bitesizedprojects.com/categories/development/</link>
+      <pubDate>Mon, 16 Sep 2019 12:21:27 -0700</pubDate>
       
-      <guid>https://bitesizedprojects.com/categories/development/</guid>
+      <guid>https://www.bitesizedprojects.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydroponics</title>
-      <link>https://bitesizedprojects.com/categories/hydroponics/</link>
-      <pubDate>Tue, 17 Sep 2019 12:21:27 -0700</pubDate>
+      <link>https://www.bitesizedprojects.com/categories/hydroponics/</link>
+      <pubDate>Mon, 16 Sep 2019 12:21:27 -0700</pubDate>
       
-      <guid>https://bitesizedprojects.com/categories/hydroponics/</guid>
+      <guid>https://www.bitesizedprojects.com/categories/hydroponics/</guid>
       <description></description>
     </item>
     

@@ -1,34 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bite-Sized Projects</title>
-    <link>https://bitesizedprojects.com/</link>
-    <description>Recent content on Bite-Sized Projects</description>
+    <title>bitesizedprojects</title>
+    <link>https://www.bitesizedprojects.com/</link>
+    <description>Recent content on bitesizedprojects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 12:21:27 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 12:21:27 -0700</lastBuildDate>
     
-	<atom:link href="https://bitesizedprojects.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bitesizedprojects.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hydroponics Project</title>
-      <link>https://bitesizedprojects.com/posts/projects/hydroponics/day1-getting-started/</link>
-      <pubDate>Tue, 17 Sep 2019 12:21:27 -0700</pubDate>
+      <title>Thirty Days of Hydroponics -Day 1</title>
+      <link>https://www.bitesizedprojects.com/hydroponics/day1-getting-started/</link>
+      <pubDate>Mon, 16 Sep 2019 12:21:27 -0700</pubDate>
       
-      <guid>https://bitesizedprojects.com/posts/projects/hydroponics/day1-getting-started/</guid>
+      <guid>https://www.bitesizedprojects.com/hydroponics/day1-getting-started/</guid>
       <description>&lt;h4 id=&#34;day1-p&#34;&gt;DAY1&lt;p&gt;&lt;/h4&gt;
 
 &lt;p&gt;Setting up our project and workflow. (Structure of a Python app and how to use GitHub)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://bitesizedprojects.com/about/</link>
-      <pubDate>Mon, 16 Sep 2019 13:36:27 -0700</pubDate>
-      
-      <guid>https://bitesizedprojects.com/about/</guid>
-      <description></description>
     </item>
     
   </channel>
